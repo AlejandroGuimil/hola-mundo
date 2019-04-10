@@ -23,3 +23,5 @@ Primer Título | Segundo Título
 ------------ | -------------
 Pan | Manteca
 Es Pan | No es Pan
+
+~~Tachado~~
