@@ -1,7 +1,7 @@
 # hola-mundo
 ## Guimil - LopezP. Guia Github
 
-Mi pescado se llama Rolfi, esta mas duro que puerta pentagono
+Mi pescado se llama Rolfi, esta mas duro que puerta pentagono  :eggplant:
 
 En mi server de *Minecraft* practicamos el **comunismo**.
 
