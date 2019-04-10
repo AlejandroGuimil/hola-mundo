@@ -17,4 +17,9 @@ __Lista:__
 - [X] Item 2
 - [ ] Item 3
    - [X] Item 3a
-   - [ ]Item 3b
+   - [ ] Item 3b
+   
+Primer Título | Segundo Título
+------------ | -------------
+Pan | Manteca
+Es Pan | No es Pan
