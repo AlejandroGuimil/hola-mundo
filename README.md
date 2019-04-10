@@ -11,8 +11,8 @@ Como dijo la Juan Manuel de Rosas:
 
 > Denle Mazorca.
 
-1.[X] Item 1
-1.[X] Item 2
-1.[] Item 3
-   1.[X] Item 3a
-   1.[]Item 3b
+- [X] Item 1
+- [X] Item 2
+- [ ] Item 3
+   [X] Item 3a
+   [ ]Item 3b
