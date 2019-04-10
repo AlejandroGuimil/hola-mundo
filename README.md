@@ -11,8 +11,10 @@ Como dijo la Juan Manuel de Rosas:
 
 > Denle Mazorca.
 
+
+__Lista:__
 - [X] Item 1
 - [X] Item 2
 - [ ] Item 3
-   [X] Item 3a
-   [ ]Item 3b
+   - [X] Item 3a
+   - [ ]Item 3b
